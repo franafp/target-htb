@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+head /home/franafp/.config/bin/target # Introduce la ruta de tu archivo "target" donde almacenas la target
